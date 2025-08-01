@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "NumberCheckWithFunction",
+            "request": "launch",
+            "mainClass": "NumberCheckWithFunction",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
             "name": "PrintNumbers",
             "request": "launch",
             "mainClass": "PrintNumbers",
