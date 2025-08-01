@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "GCD",
+            "request": "launch",
+            "mainClass": "GCD",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "Fibnossi",
+            "request": "launch",
+            "mainClass": "Fibnossi",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "Pow",
+            "request": "launch",
+            "mainClass": "Pow",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
             "name": "NumberCheckWithFunction",
             "request": "launch",
             "mainClass": "NumberCheckWithFunction",
