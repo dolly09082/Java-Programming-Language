@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RemoveElement",
+            "request": "launch",
+            "mainClass": "RemoveElement",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "Occurences",
+            "request": "launch",
+            "mainClass": "Array_Practice.Occurences",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "Max_Min",
+            "request": "launch",
+            "mainClass": "Max_Min",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "Replace",
+            "request": "launch",
+            "mainClass": "Replace",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "CountEven",
+            "request": "launch",
+            "mainClass": "CountEven",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "Even_Odd",
+            "request": "launch",
+            "mainClass": "Array_Practice.Even_Odd",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "Max",
+            "request": "launch",
+            "mainClass": "Array_Practice.Max",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "Min",
+            "request": "launch",
+            "mainClass": "Array_Practice.Min",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
             "name": "GCD",
             "request": "launch",
             "mainClass": "GCD",
