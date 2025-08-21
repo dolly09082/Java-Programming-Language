@@ -6,6 +6,83 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Search.Main",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "BinarySearchStyle",
+            "request": "launch",
+            "mainClass": "Search.BinarySearchStyle",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "BubbleSort",
+            "request": "launch",
+            "mainClass": "BubbleSort",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "BinarySearchNoFunction",
+            "request": "launch",
+            "mainClass": "Search.BinarySearchNoFunction",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "InsertionSort",
+            "request": "launch",
+            "mainClass": "InsertionSort",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "BinarySearch",
+            "request": "launch",
+            "mainClass": "Search.BinarySearch",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "BinarySearchCount",
+            "request": "launch",
+            "mainClass": "Search.BinarySearchCount",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "BinarySearchScanner",
+            "request": "launch",
+            "mainClass": "Search.BinarySearchScanner",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "Selection_Sorting",
+            "request": "launch",
+            "mainClass": "Selection_Sorting",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "InnerBubbleSort",
+            "request": "launch",
+            "mainClass": "InnerBubbleSort",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "Bubble_Sort",
+            "request": "launch",
+            "mainClass": "Bubble_Sort",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
             "name": "RemoveElement",
             "request": "launch",
             "mainClass": "RemoveElement",
