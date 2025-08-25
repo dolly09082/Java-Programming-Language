@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Compare",
+            "request": "launch",
+            "mainClass": "String_Practise.Compare",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "StringIndex",
+            "request": "launch",
+            "mainClass": "String_Practise.StringIndex",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "Concatanation",
+            "request": "launch",
+            "mainClass": "String_Practise.Concatanation",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "Strings",
+            "request": "launch",
+            "mainClass": "String_Practise.Strings",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "Str",
+            "request": "launch",
+            "mainClass": "String_Practise.Str",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "String",
+            "request": "launch",
+            "mainClass": "String_Practise.String",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
             "name": "MergeSortSentinel",
             "request": "launch",
             "mainClass": "MergeSortSentinel",
