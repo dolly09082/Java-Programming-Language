@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MergeSortSentinel",
+            "request": "launch",
+            "mainClass": "MergeSortSentinel",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "RecursiveFibonacciCount",
+            "request": "launch",
+            "mainClass": "RecursiveFibonacciCount",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "Fibonacci",
+            "request": "launch",
+            "mainClass": "Fibonacci",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "InsertionSortCount",
+            "request": "launch",
+            "mainClass": "InsertionSortCount",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
             "name": "Main",
             "request": "launch",
             "mainClass": "Search.Main",

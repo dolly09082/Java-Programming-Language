@@ -1,0 +1,45 @@
+import java.util.*;
+
+public class Selection_Sorting {
+    public static void main(String args[]) {
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter the size of Array :");
+        int n = sc.nextInt();
+        int a[] = new int[n];
+        int count;
+        for (int i = 0; i < n; i++) {
+            a[i] = sc.nextInt();
+
+        }
+        count = 1;
+
+        for (int i = 0; i < n - 1; i++) {
+            count++;
+            int min = i;
+            count++;
+            count++;
+            for (int j = i + 1; j < n; j++) {
+                count++;
+                count++;
+                if (a[j] < a[min]) {
+                    count++;
+                    min = j;
+                }
+                count++;
+            }
+            count++;
+            int temp = a[min];
+            count++;
+            a[min] = a[i];
+            count++;
+            a[i] = temp;
+            count++;
+            count++;
+        }
+        count++;
+        for (int i = 0; i < n; i++) {
+            System.out.print(a[i] + " ");
+        }
+        System.out.println("Count is :" + count);
+    }
+}
