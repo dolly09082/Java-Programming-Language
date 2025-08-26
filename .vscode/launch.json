@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Selection",
+            "request": "launch",
+            "mainClass": "Selection",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
             "name": "Compare",
             "request": "launch",
             "mainClass": "String_Practise.Compare",
