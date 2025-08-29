@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "StringBuil",
+            "request": "launch",
+            "mainClass": "String_Practise.StringBuil",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "StringBuilder",
+            "request": "launch",
+            "mainClass": "String_Practise.StringBuilder",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "SubString",
+            "request": "launch",
+            "mainClass": "String_Practise.SubString",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "Concat",
+            "request": "launch",
+            "mainClass": "String_Practise.Concat",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
             "name": "Insert",
             "request": "launch",
             "mainClass": "Insert",
