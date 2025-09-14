@@ -6,6 +6,258 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Case4",
+            "request": "launch",
+            "mainClass": "OOPs.Polymorphism.Case4",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "Case3",
+            "request": "launch",
+            "mainClass": "OOPs.Polymorphism.Case3",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "Case2",
+            "request": "launch",
+            "mainClass": "OOPs.Polymorphism.Case2",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "Automation_Promotion",
+            "request": "launch",
+            "mainClass": "OOPs.Polymorphism.Automation_Promotion",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "VarArgs",
+            "request": "launch",
+            "mainClass": "OOPs.Polymorphism.VarArgs",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "Method_Overloading",
+            "request": "launch",
+            "mainClass": "OOPs.Polymorphism.Method_Overloading",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "Hirarichal2",
+            "request": "launch",
+            "mainClass": "OOPs.Inheritance.Hirarichal2",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "Multilevel3",
+            "request": "launch",
+            "mainClass": "OOPs.Inheritance.Multilevel3",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "Dog",
+            "request": "launch",
+            "mainClass": "OOPs.Inheritance.Dog",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "Employee1",
+            "request": "launch",
+            "mainClass": "OOPs.Constructors.Employee1",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "Employee",
+            "request": "launch",
+            "mainClass": "OOPs.Constructors.Employee",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "Tes",
+            "request": "launch",
+            "mainClass": "OOPs.Tes",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "OOPs.Constructors.Test",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "Animal",
+            "request": "launch",
+            "mainClass": "OOPs.Constructors.Animal",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "OOPs.Test",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "Animal",
+            "request": "launch",
+            "mainClass": "OOPs.Animal",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "Merge2",
+            "request": "launch",
+            "mainClass": "Merge2",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "Merg",
+            "request": "launch",
+            "mainClass": "Merg",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "Binary",
+            "request": "launch",
+            "mainClass": "Binary",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "Inser",
+            "request": "launch",
+            "mainClass": "Inser",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "Select",
+            "request": "launch",
+            "mainClass": "Select",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "Bubb",
+            "request": "launch",
+            "mainClass": "Bubb",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "Merge1",
+            "request": "launch",
+            "mainClass": "Merge1",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "Merge",
+            "request": "launch",
+            "mainClass": "Merge",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "Fibb",
+            "request": "launch",
+            "mainClass": "Recursion.Fibb",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "Fact",
+            "request": "launch",
+            "mainClass": "Fact",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "Fact",
+            "request": "launch",
+            "mainClass": "Recursion.Fact",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "Sum",
+            "request": "launch",
+            "mainClass": "Recursion.Sum",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "Number",
+            "request": "launch",
+            "mainClass": "Recursion.Number",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "Recursion1",
+            "request": "launch",
+            "mainClass": "Recursion.Recursion1",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "DivideConquer",
+            "request": "launch",
+            "mainClass": "DivideConquer",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "MatrixMultiplication",
+            "request": "launch",
+            "mainClass": "MatrixMultiplication",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "ReverseString",
+            "request": "launch",
+            "mainClass": "String_Practise.ReverseString",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "Append",
+            "request": "launch",
+            "mainClass": "String_Practise.Append",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "RandomizedQuickSort",
+            "request": "launch",
+            "mainClass": "RandomizedQuickSort",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "QuickSort",
+            "request": "launch",
+            "mainClass": "QuickSort",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
             "name": "StringBuil",
             "request": "launch",
             "mainClass": "String_Practise.StringBuil",

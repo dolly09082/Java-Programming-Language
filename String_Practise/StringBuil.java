@@ -15,7 +15,7 @@ public class StringBuil {
     System.out.println(sb);
 
     //delete the extra n
-    sb.delete(2,3);
+    sb.delete(4,6);
     System.out.println(sb);
         
     }
