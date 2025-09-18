@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Insertion",
+            "request": "launch",
+            "mainClass": "Insertion",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "Bubble",
+            "request": "launch",
+            "mainClass": "Bubble",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "Overriding1",
+            "request": "launch",
+            "mainClass": "OOPs.Polymorphism.Metohd_Overriding.Overriding1",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "Overriding",
+            "request": "launch",
+            "mainClass": "OOPs.Polymorphism.Metohd_Overriding.Overriding",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
             "name": "Case4",
             "request": "launch",
             "mainClass": "OOPs.Polymorphism.Case4",
