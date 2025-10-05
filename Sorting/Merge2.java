@@ -15,6 +15,8 @@ public class Merge2 {
             MergeSort(arr, mid + 1, end);
             c++;
             merge(arr, st, mid, end);
+
+
             c++;
         }
     }
@@ -24,6 +26,7 @@ public class Merge2 {
         int temp[] = new int[end - st + 1];
         c++;
         int i = st;
+
         c++;
         int j = mid + 1;
         c++;

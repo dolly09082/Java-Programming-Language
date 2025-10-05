@@ -18,7 +18,7 @@ public class Insert {
                 j--;
             }
             a[j+1] = current;
-
+   
         }
         System.out.println("After sorting array :");
         for(int i=0;i<a.length;i++){

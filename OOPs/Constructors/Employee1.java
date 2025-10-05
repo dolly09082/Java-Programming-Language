@@ -1,5 +1,7 @@
 package OOPs.Constructors;
 
+import OOPs.Animal;
+
 public class Employee1 {
     String name;
     int roll;
@@ -28,6 +30,8 @@ public class Employee1 {
          E3.Emp();
          Employee1 E4=new Employee1("Radha");
          E4.Emp();
+         Animal a1 = new Animal();
+         a1.Dog();
        
 
 

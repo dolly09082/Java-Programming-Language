@@ -6,6 +6,76 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Selection",
+            "request": "launch",
+            "mainClass": "DSA_Practise.Selection",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "Bubble",
+            "request": "launch",
+            "mainClass": "DSA_Practise.Bubble",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "Emp",
+            "request": "launch",
+            "mainClass": "OOPs.Constructors.Emp",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "Class_B",
+            "request": "launch",
+            "mainClass": "Class_B",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "Search_Insert",
+            "request": "launch",
+            "mainClass": "DSA_Practise.Search_Insert",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "Case5",
+            "request": "launch",
+            "mainClass": "OOPs.Polymorphism.Metohd_Overriding.Case5",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "Case4",
+            "request": "launch",
+            "mainClass": "OOPs.Polymorphism.Metohd_Overriding.Case4",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "Case3",
+            "request": "launch",
+            "mainClass": "OOPs.Polymorphism.Metohd_Overriding.Case3",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "Xyz",
+            "request": "launch",
+            "mainClass": "OOPs.Polymorphism.Metohd_Overriding.Xyz",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "Overridding2",
+            "request": "launch",
+            "mainClass": "OOPs.Polymorphism.Metohd_Overriding.Overridding2",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
             "name": "Insertion",
             "request": "launch",
             "mainClass": "Insertion",
