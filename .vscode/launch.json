@@ -6,6 +6,174 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MakeHands",
+            "request": "launch",
+            "mainClass": "MakeHands",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "TextFormate",
+            "request": "launch",
+            "mainClass": "TextFormate",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "ABC",
+            "request": "launch",
+            "mainClass": "ABC",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "CableWrap",
+            "request": "launch",
+            "mainClass": "CableWrap",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "ShapeCount",
+            "request": "launch",
+            "mainClass": "ShapeCount",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "mine",
+            "request": "launch",
+            "mainClass": "OOPs.Constructors.mine",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "Pri",
+            "request": "launch",
+            "mainClass": "DSA_Practise.Pri",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "Prim",
+            "request": "launch",
+            "mainClass": "DSA_Practise.Prim",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "Armst",
+            "request": "launch",
+            "mainClass": "DSA_Practise.Armst",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "Arm",
+            "request": "launch",
+            "mainClass": "DSA_Practise.Arm",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "ConstPara",
+            "request": "launch",
+            "mainClass": "OOPsPractise.ConstPara",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "NonPara",
+            "request": "launch",
+            "mainClass": "OOPsPractise.NonPara",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "Const",
+            "request": "launch",
+            "mainClass": "OOPsPractise.Const",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "Method",
+            "request": "launch",
+            "mainClass": "OOPsPractise.Method",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "OOPsRef",
+            "request": "launch",
+            "mainClass": "OOPsPractise.OOPsRef",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "OOPs",
+            "request": "launch",
+            "mainClass": "OOPsPractise.OOPs",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "Prime",
+            "request": "launch",
+            "mainClass": "DSA_Practise.Prime",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "Arms",
+            "request": "launch",
+            "mainClass": "DSA_Practise.Arms",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "Palin",
+            "request": "launch",
+            "mainClass": "DSA_Practise.Palin",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "Armstrong",
+            "request": "launch",
+            "mainClass": "DSA_Practise.Armstrong",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "Palindrom",
+            "request": "launch",
+            "mainClass": "DSA_Practise.Palindrom",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "PrimeNumbers",
+            "request": "launch",
+            "mainClass": "PrimeNumbers",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
+            "name": "SumOfPrimes",
+            "request": "launch",
+            "mainClass": "SumOfPrimes",
+            "projectName": "Java Programming Language_9ee47575"
+        },
+        {
+            "type": "java",
             "name": "Selection",
             "request": "launch",
             "mainClass": "DSA_Practise.Selection",
